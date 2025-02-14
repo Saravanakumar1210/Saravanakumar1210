@@ -44,7 +44,7 @@
 ### 📚 Brain Tumor Analysis Using Deep Learning (Published)  
 🔹 **Published in:** IET  
 🔹 **Focus:** Leveraging deep learning techniques for precise tumor segmentation and classification.  
-👉 [Read More](#)
+👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)
 
 ### 📚 Student Engagement Analysis Using Multiple Regression (Under Review)  
 🔹 **Under Review in:** Journal of Engineering Education Transformations (JEET)  
