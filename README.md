@@ -59,7 +59,7 @@
 ### 📚 Time-Series Forecasting for Pharmaceutical Sales (Under Review)  
 🔹 **Under Review in:** IGI Global  
 🔹 **Focus:** Predictive analytics for pharmaceutical industry trends using time series models.  
-👉 [Read More](#)
+👉 [Read More](https://www.igi-global.com/gateway/chapter/351611#pnlRecommendationForm)
 
 ---
 
