@@ -1,104 +1,109 @@
 ![logo](https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(4).png)
 
-# Hey there! 👋 I'm Saravana Kumar
+# Hey there! 👋 I'm Saravana Kumar  
 
-### 🚀 Future Data Scientist | Machine Learning Enthusiast | Innovator
+### 🚀 Future Data Scientist | Machine Learning Enthusiast | Innovator  
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">  
 
-![Profile Views](https://komarev.com/ghpvc/?username=saravanakumarsk1210&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=saravanakumarsk1210&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
 
 ## 💡 About Me  
 
 ### 🎓 Academic Journey & Proficiencies  
-- 🎓**5-Year Integrated MSc Data Science** student  
-- 🔍 Passionate about **Machine Learning**, **Predictive Analytics**, and **Data Visualization**  
-- 💡Researcher in **AI for Healthcare**, **Agriculture**, and **Forecasting**  
-- 📊Experienced with **Apache Kafka**, **Apache NiFi**, **Power BI**, **Tableau**, **Weka**, **Docker**
+- 🎓 **5-Year Integrated MSc Data Science** student  
+- 🔍 Passionate about **Machine Learning, Predictive Analytics, and Data Visualization**  
+- 💡 Researcher in **AI for Healthcare, Agriculture, and Forecasting**  
+- 📊 Experienced with **Apache Kafka, Apache NiFi, Power BI, Tableau, Weka, and Docker**  
 
 ---
 
-### 📈 Skills & Mindset
-- 🧠 **Beginner's mindset & curiosity**  
-- 🛠️Familiar IDEs: **Jupyter Notebook**, **Google Colab**, **Visual Studio Code**, **Netbeans**, **Code::Blocks**  
-- 🚀 **Turning ideas into visually stunning designs!**
+## 📈 Skills & Mindset  
+- 🧠 **Growth mindset & curiosity-driven learning**  
+- 🛠️ Familiar IDEs: **Jupyter Notebook, Google Colab, Visual Studio Code, NetBeans, Code::Blocks**  
+- 🎨 **Transforming ideas into visually stunning insights!**  
 
 ---
 
 ## 💻 What I Work On  
-🔹 **Forecasting ML models** 🧠  
-🔹 **Deep learning models** 🧠  
-🔹 **Statistical models** 🧠  
+🔹 **Time Series Forecasting & ML Models** 📈  
+🔹 **Deep Learning & Statistical Models** 🧠  
 🔹 **Recommendation Systems with Sentiment Analysis** 🎮  
-🔹 **Database management & Web applications** 🌍💻  
+🔹 **Database Management & Web Applications** 🌍  
 🔹 **Conversational AI for Smart Agriculture** 🌾  
 
-🎤 **Workshop Attendee** | 🎨 **Creative Designer** | ✍️ **Tech Blogger** | 🏆 **Hackathon Enthusiast** 
+🎤 **Workshop Attendee** | 🎨 **Creative Designer** | ✍️ **Tech Blogger** | 🏆 **Hackathon Enthusiast**  
 
 ---
 
 ## 🔍📚 Research & Publications  
 
-### 📚 Brain Tumor Analysis Using Deep Learning (Published)  
+### 📚 Brain Tumor Analysis Using Deep Learning  
 🔹 **Published in:** IET  
-🔹 **Focus:** Leveraging deep learning techniques for precise tumor segmentation and classification.  
-👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)
+🔹 **Focus:** Leveraging deep learning for precise tumor segmentation & classification.  
+👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)  
+
+
 
 ### 📚 Student Engagement Analysis Using Multiple Regression (Under Review)  
-🔹 **Under Review in:** Journal of Engineering Education Transformations (JEET)  
-🔹 **Focus:** Analyzing engagement factors affecting students’ academic performance.  
-👉 [Read More](#)
-
-### 📚 AI-Driven Decision Support for Crop Selection (Under Review)  
-🔹 **Under Review in:** EasyChair  
-🔹 **Focus:** Implementing AI-driven recommendations for optimized crop selection.  
-👉 [Read More](#)
+🔹 **Under Review in:** JEET  
+🔹 **Focus:** Analyzing engagement factors affecting academic performance.  
+👉 [Read More](https://journaleet.in/articles/evaluating-elements-influencing-student-engagement-an-analysis-utilizing-multiple-regression)  
 
 ### 📚 Time-Series Forecasting for Pharmaceutical Sales (Under Review)  
 🔹 **Under Review in:** IGI Global  
-🔹 **Focus:** Predictive analytics for pharmaceutical industry trends using time series models.  
-👉 [Read More](https://www.igi-global.com/gateway/chapter/351611#pnlRecommendationForm)
+🔹 **Focus:** Predictive analytics for pharmaceutical industry trends.  
+👉 [Read More](https://www.igi-global.com/gateway/chapter/351611)  
+
+### 📚 Deep Learning Advancements in Malaria Diagnosis  
+🔹 **Published in:** IGI Global – Artificial Intelligence Transformations for Healthcare  
+🔹 **Focus:** PyTorch-based CNN ensemble achieving 96.5% accuracy in malaria diagnosis.  
+👉 [Read More](https://www.igi-global.com/gateway/chapter/351607)  
+
+### 📚 AI-Driven Decision Support for Crop Selection (Under Review)  
+🔹 **Under Review in:** EasyChair  
+🔹 **Focus:** AI-driven recommendations for optimized crop selection.  
 
 ---
 
 ## 🌱 Internships & Experience  
 
 ### 📍 **AuroiTech**  
-🔹 **Role:** Process Automation Intern (1 week)  
-🔹 **Focus:** Managed the ETL process for reporting in a team of three, optimizing the pipeline to ensure faster and more consistent data flow, resulting in a 15-minute reduction in data loading time. Additionally, I implemented data validations and monitoring mechanisms using PySpark, Apache Kafka, and PostgreSQL, enhancing data reliability and enabling quicker detection of issues within the ETL pipeline.  
+🔹 **Role:** Process Automation Intern  
+🔹 **Focus:** Optimized ETL pipelines, reducing data loading time by 15 minutes using **PySpark, Kafka, and PostgreSQL**.  
 
 ### 📍 **Madurai Tech Community** – *GIS Mapping for Urban Planning*  
 🔹 **Role:** Data Acquisition Intern  
-🔹 **Focus:** Contributed to the GIS mapping efforts for urban planning, assisting in data collection, processing, and visualization.
+🔹 **Focus:** Assisted in GIS mapping, data collection, and visualization.  
 
 ### 📍 **VTM Limited** – *OCR-based Textile Industry Automation*  
-🔹 **Role:** Process Automation Intern (1 week)  
-🔹 **Focus:** Implemented OCR-based automation solutions for the textile industry, optimizing processes and reducing manual intervention.  
+🔹 **Role:** Process Automation Intern  
+🔹 **Focus:** Implemented OCR-based automation to optimize workflows.  
 
-### 📍 **CodSoft** – *Machine Learning Hands-on (Spam Detection, Churn Prediction, etc.)*  
+### 📍 **CodSoft** – *Machine Learning Hands-on*  
 🔹 **Role:** ML Trainee  
-🔹 **Focus:** Worked on machine learning projects like spam detection and churn prediction, gaining hands-on experience in building and evaluating ML models.
+🔹 **Focus:** Built **spam detection and churn prediction** models.  
 
 ### 📍 **Accenture** – *Data Visualization & Dashboard Development*  
 🔹 **Role:** Data Analyst Intern  
-🔹 **Focus:** Developed interactive data visualizations and dashboards, helping clients gain insights from complex data and improving decision-making processes.
+🔹 **Focus:** Designed interactive dashboards for data-driven decision-making.  
 
-💡 *"✨ Harnessing the power of data to solve real-world problems!"* 🚀  
+💡 *"Harnessing the power of data to solve real-world problems!"* 🚀  
 
 ---
 
 ## 📄 Languages & Tools  
 
-### 🔢 Languages:
-- Python  
-- SQL  
-- C++  
-- Java  
-- JavaScript  
+### 🔢 **Languages:**  
+- Python 🐍  
+- SQL 🛢️  
+- C++ 💻  
+- Java ☕  
+- JavaScript 🌐  
 
-### ⚙️ Tools:
+### ⚙️ **Tools & Technologies:**  
 - Apache Kafka  
 - PySpark  
 - Google BigQuery  
@@ -110,18 +115,18 @@
 
 ## 💌 Let's Connect!  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/saravana-kumar-990884243" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saravana-kumar-990884243" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
- 
+  
   <a href="https://www.hackerearth.com/@saravananmsk1210" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saravananmsk1210" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
 </p>
 
-💡 *"Transforming data into actionable insights  "* 🚀  
+💡 *"Transforming data into actionable insights!"* 🚀  
 
 ---
 
